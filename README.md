@@ -2,6 +2,8 @@
 
 InstaBreak is a bash based tool for Linux (Ubuntu, Kali linux, Mint, Arch etc) to hack/crack instagram. It bruteforces the username of an instagram and finds the correct one using wordlist.
 
+Copy paste the commands in the box one by one to install and run the tool.
+
 # Commands
 ___________
     apt-get update && apt-get upgrade
